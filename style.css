@@ -1,5 +1,11 @@
 header {
-    background-color: #383d58;
-    color:white;
-}
+    background-color: #383d58 ;
+    color: white;
 
+}
+.comida{
+    width: 500px;
+    position: relative;
+    top: 5px;
+    left: 50px;
+}
