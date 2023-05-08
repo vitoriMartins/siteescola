@@ -1,11 +1,16 @@
-header {
-    background-color: #383d58 ;
+.cabecalho{
+    background-color: #adb9ff ;
     color: white;
+    display: flex;
+    justify-content: space-around;
 
 }
 .comida{
-    width: 500px;
+    width: 200px;
     position: relative;
     top: 5px;
     left: 50px;
+}
+.cabecalho-lista-itens{
+ display: inline-block;
 }
