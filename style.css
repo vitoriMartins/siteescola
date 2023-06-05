@@ -1,8 +1,15 @@
+{
+    margin: 0;
+    padding: 0;
+}
+
 .cabecalho{
     background-color: #adb9ff ;
     color: white;
     display: flex;
     justify-content: space-around;
+    align-items: center;
+    padding: 24px  0;
 
 }
 .comida{
@@ -13,4 +20,28 @@
 }
 .cabecalho-lista-itens{
  display: inline-block;
+ margin: 0 16px;
+ font-size: 24px;
+ padding: 24px 0;
+}
+
+.imagem-pudim{
+    width: 200px;
+}
+
+.escola{
+    background-image:linear-gradient(#adb9ff,#928);
+    color: white;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 24px 0;
+}
+
+.escola-div-conteudo{
+    width: 350px
+}
+
+.escola-titulo{
+    padding: 24px 0;
 }
