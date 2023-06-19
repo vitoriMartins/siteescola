@@ -46,6 +46,21 @@ body{font-family: 'Poppins', sans-serif;}
 .escola-titulo{
     padding: 24px 0;
 }
+.estudante-titulo{
+    text-align: center;
+    padding: 50px 0px;
+}
 .estudante-image{
-    width: 100px;
+    width: 120px;
+}
+.estudante-icone{
+    width: 24px;
+
+}
+.estudante-div{
+    text-align: center;
+}
+.estudantes-todos{
+    display: grid;
+    grid-template-columns: 20% 20% 20% 20%;
 }
